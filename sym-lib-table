@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name CharliePlexFourDigits)(type Legacy)(uri ${KIPRJMOD}/CharliePlexFourDigits.lib)(options "")(descr ""))
+)
